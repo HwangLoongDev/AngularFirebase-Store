@@ -1,0 +1,27 @@
+[debug] [2022-08-30T07:27:55.034Z] ----------------------------------------------------------------------
+[debug] [2022-08-30T07:27:55.035Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-08-30T07:27:55.036Z] CLI Version:   11.8.0
+[debug] [2022-08-30T07:27:55.036Z] Platform:      win32
+[debug] [2022-08-30T07:27:55.036Z] Node Version:  v16.15.1
+[debug] [2022-08-30T07:27:55.042Z] Time:          Tue Aug 30 2022 14:27:55 GMT+0700 (Giờ Đông Dương)
+[debug] [2022-08-30T07:27:55.043Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-08-30T07:27:55.052Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-08-30T07:27:55.052Z] > authorizing via signed-in user (longth.dev@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\Projects\Ecommerce\Angular + Firebase\Store
+
+[debug] [2022-08-30T07:28:08.471Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:253:49)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[error] 
+[error] Error: An unexpected error has occurred.
